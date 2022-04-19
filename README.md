@@ -1,4 +1,4 @@
-# RUSSUKR
+# Exploratory Data Analysis on Russian Ukraine War.
 
 Project Goal:
 Real time EDA on Russian Ukraine ongoing war.
